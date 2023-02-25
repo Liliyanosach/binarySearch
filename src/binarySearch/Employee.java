@@ -1,3 +1,5 @@
+package binarySearch;
+
 public class Employee implements Comparable<Employee> {
     private int id;
     private String name;

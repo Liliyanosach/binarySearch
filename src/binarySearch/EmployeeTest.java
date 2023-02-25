@@ -1,3 +1,7 @@
+package binarySearch;
+
+import binarySearch.Employee;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
