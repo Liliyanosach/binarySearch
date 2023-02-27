@@ -29,5 +29,8 @@ public class HashMapEx {
         System.out.println(map1.entrySet());
 
 
+        Map<Integer, String> map2 = new HashMap<>(16, 0.75F);
+
+
     }
 }
